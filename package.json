@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "JS\\Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bk",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.0.2"
+  }
+}
